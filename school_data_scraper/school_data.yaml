@@ -1,0 +1,4439 @@
+--- 
+0: 
+  :name: Menlo Park-Belle Haven Child Development Center
+  :category: private
+  :grade_range: preschool
+  :address: 
+    :street: 410 Ivy Dr
+    :city: Menlo Park
+    :state: CA
+    :zipcode: 94025
+    :geolocation: &id001 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id001
+      city: Menlo Park
+      country: USA
+      country_code: US
+      full_address: 410 Ivy Dr, Menlo Park, CA 94025, USA
+      lat: 37.47548
+      lng: -122.160767
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 410 Ivy Dr
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4786276
+          lng: -122.1576194
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4723324
+          lng: -122.1639146
+      zip: "94025"
+  :phone_number: ""
+1: 
+  :name: Menlo Park-Belle Haven Child Care Center
+  :category: private
+  :grade_range: preschool
+  :address: 
+    :street: 100 Terminal Ave
+    :city: Menlo Park
+    :state: CA
+    :zipcode: 94025
+    :geolocation: &id002 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id002
+      city: Menlo Park
+      country: USA
+      country_code: US
+      full_address: 100 Terminal Ave, Menlo Park, CA 94025, USA
+      lat: 37.4784294
+      lng: -122.1675971
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 100 Terminal Ave
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.481581
+          lng: -122.1644445
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4752857
+          lng: -122.1707398
+      zip: "94025"
+  :phone_number: ""
+2: 
+  :name: Menlo Children's Center
+  :category: private
+  :grade_range: preschool
+  :address: 
+    :street: 801 Laurel St
+    :city: Menlo Park
+    :state: CA
+    :zipcode: 94025
+    :geolocation: &id003 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id003
+      city: Menlo Park
+      country: USA
+      country_code: US
+      full_address: 801 Laurel St, Menlo Park, CA 94025, USA
+      lat: 37.455106
+      lng: -122.178488
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 801 Laurel St
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4582536
+          lng: -122.1753404
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4519584
+          lng: -122.1816356
+      zip: "94025"
+  :phone_number: ""
+3: 
+  :name: Menlo Atherton Co-Op Nursery
+  :category: private
+  :grade_range: preschool
+  :address: 
+    :street: 801 Middle Ave
+    :city: Menlo Park
+    :state: CA
+    :zipcode: 94025
+    :geolocation: &id004 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id004
+      city: Menlo Park
+      country: USA
+      country_code: US
+      full_address: 801 Middle Ave, Menlo Park, CA 94025, USA
+      lat: 37.4479453
+      lng: -122.1792424
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 801 Middle Ave
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4510972
+          lng: -122.1761029
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.444802
+          lng: -122.1823981
+      zip: "94025"
+  :phone_number: ""
+4: 
+  :name: Hillview Middle School
+  :category: public
+  :grade_range: 6-8
+  :address: 
+    :street: 1100 Elder Ave.
+    :city: Menlo Park
+    :state: CA
+    :zipcode: 94025
+    :geolocation: &id005 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id005
+      city: Menlo Park
+      country: USA
+      country_code: US
+      full_address: 1100 Elder Ave, Menlo Park, CA 94025, USA
+      lat: 37.439915
+      lng: -122.195436
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 1100 Elder Ave
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4430626
+          lng: -122.1922884
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4367674
+          lng: -122.1985836
+      zip: "94025"
+  :phone_number: ""
+5: 
+  :name: Nativity Elementary School
+  :category: private
+  :grade_range: k-8
+  :address: 
+    :street: 1250 Laurel St
+    :city: Menlo Park
+    :state: CA
+    :zipcode: 94025
+    :geolocation: &id006 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id006
+      city: Menlo Park
+      country: USA
+      country_code: US
+      full_address: 1250 Laurel St, Menlo Park, CA 94025, USA
+      lat: 37.460927
+      lng: -122.180371
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 1250 Laurel St
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4640746
+          lng: -122.1772234
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4577794
+          lng: -122.1835186
+      zip: "94025"
+  :phone_number: ""
+6: 
+  :name: Trinity School
+  :category: private
+  :grade_range: pk-5
+  :address: 
+    :street: 2650 Sand Hill Rd
+    :city: Menlo Park
+    :state: CA
+    :zipcode: 94025
+    :geolocation: &id007 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id007
+      city: Menlo Park
+      country: USA
+      country_code: US
+      full_address: 2650 Sand Hill Rd, Menlo Park, CA 94025, USA
+      lat: 37.421702
+      lng: -122.207537
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 2650 Sand Hill Rd
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4248496
+          lng: -122.2043894
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4185544
+          lng: -122.2106846
+      zip: "94025"
+  :phone_number: ""
+7: 
+  :name: Beechwood School
+  :category: private
+  :grade_range: k-8
+  :address: 
+    :street: 50 Terminal Avenue
+    :city: Menlo Park
+    :state: CA
+    :zipcode: 94025
+    :geolocation: &id008 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id008
+      city: Menlo Park
+      country: USA
+      country_code: US
+      full_address: 50 Terminal Ave, Menlo Park, CA 94025, USA
+      lat: 37.4787339
+      lng: -122.1676889
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 50 Terminal Ave
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4818822
+          lng: -122.1645343
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4755869
+          lng: -122.1708295
+      zip: "94025"
+  :phone_number: ""
+8: 
+  :name: The Peninsula School
+  :category: private
+  :grade_range: k-8
+  :address: 
+    :street: 920 Peninsula Way
+    :city: Menlo Park
+    :state: CA
+    :zipcode: 94025
+    :geolocation: &id009 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id009
+      city: Menlo Park
+      country: USA
+      country_code: US
+      full_address: 920 Peninsula Way, Menlo Park, CA 94025, USA
+      lat: 37.466403
+      lng: -122.166256
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 920 Peninsula Way
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4695506
+          lng: -122.1631084
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4632554
+          lng: -122.1694036
+      zip: "94025"
+  :phone_number: ""
+9: 
+  :name: Synapse School
+  :category: private
+  :grade_range: k-8
+  :address: 
+    :street: 3375 Edison Way
+    :city: Menlo Park
+    :state: CA
+    :zipcode: 94025
+    :geolocation: &id010 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id010
+      city: Menlo Park
+      country: USA
+      country_code: US
+      full_address: 3375 Edison Way, Menlo Park, CA 94025, USA
+      lat: 37.4765285
+      lng: -122.1996857
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 3375 Edison Way
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4796761
+          lng: -122.1965381
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4733809
+          lng: -122.2028333
+      zip: "94025"
+  :phone_number: ""
+10: 
+  :name: Phillips Brooks School
+  :category: private
+  :grade_range: pk-5
+  :address: 
+    :street: 2245 Avy Ave
+    :city: Menlo Park
+    :state: CA
+    :zipcode: 94025
+    :geolocation: &id011 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id011
+      city: Menlo Park
+      country: USA
+      country_code: US
+      full_address: 2245 Avy Ave, Menlo Park, CA 94025, USA
+      lat: 37.429063
+      lng: -122.203679
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 2245 Avy Ave
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4322106
+          lng: -122.2005314
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4259154
+          lng: -122.2068266
+      zip: "94025"
+  :phone_number: ""
+11: 
+  :name: Beechwood School
+  :category: private
+  :grade_range: k-8
+  :address: 
+    :street: 50 Terminal Ave
+    :city: Menlo Park
+    :state: CA
+    :zipcode: 94025
+    :geolocation: &id012 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id012
+      city: Menlo Park
+      country: USA
+      country_code: US
+      full_address: 50 Terminal Ave, Menlo Park, CA 94025, USA
+      lat: 37.4787339
+      lng: -122.1676889
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 50 Terminal Ave
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4818822
+          lng: -122.1645343
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4755869
+          lng: -122.1708295
+      zip: "94025"
+  :phone_number: ""
+12: 
+  :name: German - American International
+  :category: private
+  :grade_range: pk-7
+  :address: 
+    :street: 275 Elliott Dr
+    :city: Menlo Park
+    :state: CA
+    :zipcode: 94025
+    :geolocation: &id013 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id013
+      city: Menlo Park
+      country: USA
+      country_code: US
+      full_address: 275 Elliott Dr, Menlo Park, CA 94025, USA
+      lat: 37.4598404
+      lng: -122.1495678
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 275 Elliott Dr
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4629825
+          lng: -122.1464214
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4566873
+          lng: -122.1527167
+      zip: "94025"
+  :phone_number: ""
+13: 
+  :name: Roberts School
+  :category: private
+  :grade_range: preschool
+  :address: 
+    :street: 641 Coleman Ave
+    :city: Menlo Park
+    :state: CA
+    :zipcode: 94025
+    :geolocation: &id014 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id014
+      city: Menlo Park
+      country: USA
+      country_code: US
+      full_address: 641 Coleman Ave, Menlo Park, CA 94025, USA
+      lat: 37.4612849
+      lng: -122.160934
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 641 Coleman Ave
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4644325
+          lng: -122.1577864
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4581373
+          lng: -122.1640816
+      zip: "94025"
+  :phone_number: ""
+14: 
+  :name: Lydian Academy
+  :category: private
+  :grade_range: 8-12
+  :address: 
+    :street: 815 El Camino Real
+    :city: Menlo Park
+    :state: CA
+    :zipcode: 94025
+    :geolocation: &id015 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id015
+      city: Menlo Park
+      country: USA
+      country_code: US
+      full_address: 815 El Camino Real, Menlo Park, CA 94025, USA
+      lat: 37.451738
+      lng: -122.180493
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 815 El Camino Real
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4548856
+          lng: -122.1773454
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4485904
+          lng: -122.1836406
+      zip: "94025"
+  :phone_number: ""
+15: 
+  :name: Oak Knoll Elementary School
+  :category: public
+  :grade_range: k-5
+  :address: 
+    :street: 1895 Oak Knoll Ln.
+    :city: Menlo Park
+    :state: CA
+    :zipcode: 94025
+    :geolocation: &id016 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id016
+      city: Menlo Park
+      country: USA
+      country_code: US
+      full_address: 1895 Oak Knoll Ln, Menlo Park, CA 94025, USA
+      lat: 37.430189
+      lng: -122.19195
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 1895 Oak Knoll Ln
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4333366
+          lng: -122.1888024
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4270414
+          lng: -122.1950976
+      zip: "94025"
+  :phone_number: ""
+16: 
+  :name: La Entrada Middle School
+  :category: public
+  :grade_range: 4-8
+  :address: 
+    :street: 2200 Sharon Rd.
+    :city: Menlo Park
+    :state: CA
+    :zipcode: 94025
+    :geolocation: &id017 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id017
+      city: Menlo Park
+      country: USA
+      country_code: US
+      full_address: 2200 Sharon Rd, Menlo Park, CA 94025, USA
+      lat: 37.428232
+      lng: -122.200802
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 2200 Sharon Rd
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4313796
+          lng: -122.1976544
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4250844
+          lng: -122.2039496
+      zip: "94025"
+  :phone_number: ""
+17: 
+  :name: Belle Haven Elementary School
+  :category: public
+  :grade_range: pk-8
+  :address: 
+    :street: 415 Ivy Dr.
+    :city: Menlo Park
+    :state: CA
+    :zipcode: 94025
+    :geolocation: &id018 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id018
+      city: Menlo Park
+      country: USA
+      country_code: US
+      full_address: 415 Ivy Dr, Menlo Park, CA 94025, USA
+      lat: 37.477642
+      lng: -122.16077
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 415 Ivy Dr
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4807896
+          lng: -122.1576224
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4744944
+          lng: -122.1639176
+      zip: "94025"
+  :phone_number: ""
+18: 
+  :name: Willow Oaks Elementary School
+  :category: public
+  :grade_range: pk-8
+  :address: 
+    :street: 620 Willow Rd.
+    :city: Menlo Park
+    :state: CA
+    :zipcode: 94025
+    :geolocation: &id019 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id019
+      city: Menlo Park
+      country: USA
+      country_code: US
+      full_address: 620 Willow Rd, Menlo Park, CA 94025, USA
+      lat: 37.4621
+      lng: -122.157303
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 620 Willow Rd
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4652476
+          lng: -122.1541554
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4589524
+          lng: -122.1604506
+      zip: "94025"
+  :phone_number: ""
+19: 
+  :name: Garfield Elementary School
+  :category: public
+  :grade_range: pk-8
+  :address: 
+    :street: 3600 Middlefield Rd.
+    :city: Menlo Park
+    :state: CA
+    :zipcode: 94025
+    :geolocation: &id020 !ruby/object:Geokit::GeoLoc 
+      accuracy: 6
+      all: 
+      - *id020
+      city: Menlo Park
+      country: USA
+      country_code: US
+      full_address: Middlefield Rd, Menlo Park, CA, USA
+      lat: 37.4634387
+      lng: -122.1815865
+      precision: zip+4
+      provider: google
+      province: 
+      state: CA
+      street_address: Middlefield Rd
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.472282
+          lng: -122.1605667
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4531006
+          lng: -122.2045069
+      zip: 
+  :phone_number: ""
+20: 
+  :name: St. Raymond Elementary School
+  :category: private
+  :grade_range: k-8
+  :address: 
+    :street: 1211 Arbor Rd
+    :city: Menlo Park
+    :state: CA
+    :zipcode: 94025
+    :geolocation: &id021 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id021
+      city: Menlo Park
+      country: USA
+      country_code: US
+      full_address: 1211 Arbor Rd, Menlo Park, CA 94025, USA
+      lat: 37.4479766
+      lng: -122.1900057
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 1211 Arbor Rd
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.451129
+          lng: -122.1868504
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4448337
+          lng: -122.1931457
+      zip: "94025"
+  :phone_number: ""
+21: 
+  :name: Mid-Peninsula High School
+  :category: private
+  :grade_range: 9-12
+  :address: 
+    :street: 1340 Willow Rd
+    :city: Menlo Park
+    :state: CA
+    :zipcode: 94005
+    :geolocation: &id022 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id022
+      city: Menlo Park
+      country: USA
+      country_code: US
+      full_address: 1340 Willow Rd, Menlo Park, CA 94025, USA
+      lat: 37.47637
+      lng: -122.15167
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 1340 Willow Rd
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4795176
+          lng: -122.1485224
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4732224
+          lng: -122.1548176
+      zip: "94025"
+  :phone_number: ""
+22: 
+  :name: Stanford New School
+  :category: charter
+  :grade_range: k-12
+  :address: 
+    :street: 475 Pope St.
+    :city: Menlo Park
+    :state: CA
+    :zipcode: 94025
+    :geolocation: &id023 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id023
+      city: Menlo Park
+      country: USA
+      country_code: US
+      full_address: 475 Pope St, Menlo Park, CA 94025, USA
+      lat: 37.4606854
+      lng: -122.1561924
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 475 Pope St
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4638258
+          lng: -122.1530413
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4575306
+          lng: -122.1593365
+      zip: "94025"
+  :phone_number: ""
+23: 
+  :name: Oicw-Valda Brit School Gi Child Development Center
+  :category: private
+  :grade_range: preschool
+  :address: 
+    :street: 1200 O'Brien Dr
+    :city: Menlo Park
+    :state: CA
+    :zipcode: 94025
+    :geolocation: &id024 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id024
+      city: Menlo Park
+      country: USA
+      country_code: US
+      full_address: 1200 Obrien Dr, Menlo Park, CA 94025, USA
+      lat: 37.4759324
+      lng: -122.1467063
+      precision: address
+      provider: google
+      province: San Mateo
+      state: CA
+      street_address: 1200 Obrien Dr
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.47908
+          lng: -122.1435587
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4727848
+          lng: -122.1498539
+      zip: "94025"
+  :phone_number: ""
+24: 
+  :name: Belle Haven Child Development Center
+  :category: private
+  :grade_range: preschool
+  :address: 
+    :street: 410 Ivy Dr
+    :city: Menlo Park
+    :state: CA
+    :zipcode: 94025
+    :geolocation: &id025 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id025
+      city: Menlo Park
+      country: USA
+      country_code: US
+      full_address: 410 Ivy Dr, Menlo Park, CA 94025, USA
+      lat: 37.47548
+      lng: -122.160767
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 410 Ivy Dr
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4786276
+          lng: -122.1576194
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4723324
+          lng: -122.1639146
+      zip: "94025"
+  :phone_number: ""
+25: 
+  :name: University Heights Montessori
+  :category: private
+  :grade_range: preschool
+  :address: 
+    :street: 2066 Avy Ave
+    :city: Menlo Park
+    :state: CA
+    :zipcode: 94025
+    :geolocation: &id026 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id026
+      city: Menlo Park
+      country: USA
+      country_code: US
+      full_address: 2066 Avy Ave, Menlo Park, CA 94025, USA
+      lat: 37.4324129
+      lng: -122.201397
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 2066 Avy Ave
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4355605
+          lng: -122.1982494
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4292653
+          lng: -122.2045446
+      zip: "94025"
+  :phone_number: ""
+26: 
+  :name: Applebee Pre-School
+  :category: private
+  :grade_range: preschool
+  :address: 
+    :street: 107 Clover Ln
+    :city: Menlo Park
+    :state: CA
+    :zipcode: 94025
+    :geolocation: &id027 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id027
+      city: Menlo Park
+      country: USA
+      country_code: US
+      full_address: 107 Clover Ln, Menlo Park, CA 94025, USA
+      lat: 37.454805
+      lng: -122.162908
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 107 Clover Ln
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4579526
+          lng: -122.1597604
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4516574
+          lng: -122.1660556
+      zip: "94025"
+  :phone_number: ""
+27: 
+  :name: New Beginnings Pre-School
+  :category: private
+  :grade_range: preschool
+  :address: 
+    :street: 1100 Middle Ave
+    :city: Menlo Park
+    :state: CA
+    :zipcode: 94025
+    :geolocation: &id028 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id028
+      city: Menlo Park
+      country: USA
+      country_code: US
+      full_address: 1100 Middle Ave, Menlo Park, CA 94025, USA
+      lat: 37.4435408
+      lng: -122.1831373
+      precision: address
+      provider: google
+      province: San Mateo
+      state: CA
+      street_address: 1100 Middle Ave
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4466884
+          lng: -122.1799897
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4403932
+          lng: -122.1862849
+      zip: "94025"
+  :phone_number: ""
+28: 
+  :name: Kirk House Pre-School
+  :category: private
+  :grade_range: preschool
+  :address: 
+    :street: 1148 Johnson St
+    :city: Menlo Park
+    :state: CA
+    :zipcode: 94025
+    :geolocation: &id029 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id029
+      city: Menlo Park
+      country: USA
+      country_code: US
+      full_address: 1148 Johnson St, Menlo Park, CA 94025, USA
+      lat: 37.4490936
+      lng: -122.1880487
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 1148 Johnson St
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4522349
+          lng: -122.1849066
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4459396
+          lng: -122.1912019
+      zip: "94025"
+  :phone_number: ""
+29: 
+  :name: German-American Pre-School
+  :category: private
+  :grade_range: preschool
+  :address: 
+    :street: 275 Elliott Dr
+    :city: Menlo Park
+    :state: CA
+    :zipcode: 94025
+    :geolocation: &id030 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id030
+      city: Menlo Park
+      country: USA
+      country_code: US
+      full_address: 275 Elliott Dr, Menlo Park, CA 94025, USA
+      lat: 37.4598404
+      lng: -122.1495678
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 275 Elliott Dr
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4629825
+          lng: -122.1464214
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4566873
+          lng: -122.1527167
+      zip: "94025"
+  :phone_number: ""
+30: 
+  :name: Footsteps Pre-School
+  :category: private
+  :grade_range: preschool
+  :address: 
+    :street: 490 Willow Rd
+    :city: Menlo Park
+    :state: CA
+    :zipcode: 94025
+    :geolocation: &id031 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id031
+      city: Menlo Park
+      country: USA
+      country_code: US
+      full_address: 490 Willow Rd, Menlo Park, CA 94025, USA
+      lat: 37.4612815
+      lng: -122.1600036
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 490 Willow Rd
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4644341
+          lng: -122.1568659
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4581389
+          lng: -122.1631612
+      zip: "94025"
+  :phone_number: ""
+31: 
+  :name: Circle of Friends' Pre-School
+  :category: private
+  :grade_range: preschool
+  :address: 
+    :street: Alameda
+    :city: Menlo Park
+    :state: CA
+    :zipcode: 94025
+    :geolocation: &id032 !ruby/object:Geokit::GeoLoc 
+      accuracy: 4
+      all: 
+      - *id032
+      city: Menlo Park
+      country: USA
+      country_code: US
+      full_address: Menlo Park, CA, USA
+      lat: 37.4538274
+      lng: -122.1821871
+      precision: city
+      provider: google
+      province: San Mateo
+      state: CA
+      street_address: 
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.5246554
+          lng: -122.0541277
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.3829322
+          lng: -122.3102465
+      zip: 
+  :phone_number: ""
+32: 
+  :name: Ladera Community Church Pre-School
+  :category: private
+  :grade_range: preschool
+  :address: 
+    :street: 3300 Alpine Rd
+    :city: Menlo Park
+    :state: CA
+    :zipcode: 94025
+    :geolocation: &id033 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id033
+      city: Menlo Park
+      country: USA
+      country_code: US
+      full_address: 3300 Alpine Rd, Menlo Park, CA 94028, USA
+      lat: 37.39772
+      lng: -122.192907
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 3300 Alpine Rd
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4008676
+          lng: -122.1897594
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.3945724
+          lng: -122.1960546
+      zip: "94028"
+  :phone_number: ""
+33: 
+  :name: Encinal Elementary School
+  :category: public
+  :grade_range: k-5
+  :address: 
+    :street: 195 Encinal Ave.
+    :city: Atherton
+    :state: CA
+    :zipcode: 94027
+    :geolocation: &id034 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id034
+      city: Atherton
+      country: USA
+      country_code: US
+      full_address: 195 Encinal Ave, Atherton, CA 94027, USA
+      lat: 37.4639658
+      lng: -122.1862777
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 195 Encinal Ave
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4671134
+          lng: -122.1831301
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4608182
+          lng: -122.1894253
+      zip: "94027"
+  :phone_number: ""
+34: 
+  :name: Laurel Elementary School
+  :category: public
+  :grade_range: k-2
+  :address: 
+    :street: 95 Edge Rd.
+    :city: Atherton
+    :state: CA
+    :zipcode: 94027
+    :geolocation: &id035 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id035
+      city: Atherton
+      country: USA
+      country_code: US
+      full_address: 95 Edge Rd, Atherton, CA 94027, USA
+      lat: 37.466893
+      lng: -122.17149
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 95 Edge Rd
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4700406
+          lng: -122.1683424
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4637454
+          lng: -122.1746376
+      zip: "94027"
+  :phone_number: ""
+35: 
+  :name: Palo Alto Prep
+  :category: private
+  :grade_range: 9-12
+  :address: 
+    :street: 4000 Middlefield Rd
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94303
+    :geolocation: &id036 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id036
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 4000 Middlefield Rd, Palo Alto, CA 94306, USA
+      lat: 37.4175832
+      lng: -122.1066513
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 4000 Middlefield Rd
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4207308
+          lng: -122.1035037
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4144356
+          lng: -122.1097989
+      zip: "94306"
+  :phone_number: ""
+36: 
+  :name: Palo Alto High School
+  :category: public
+  :grade_range: 9-12
+  :address: 
+    :street: 50 Embarcadero Rd.
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94301
+    :geolocation: &id037 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id037
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 50 Embarcadero Rd, Palo Alto, CA 94306, USA
+      lat: 37.437384
+      lng: -122.157712
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 50 Embarcadero Rd
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4405316
+          lng: -122.1545644
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4342364
+          lng: -122.1608596
+      zip: "94306"
+  :phone_number: ""
+37: 
+  :name: Stratford School - Palo Alto
+  :category: private
+  :grade_range: pk-5
+  :address: 
+    :street: 870 N. California Avenue
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94303
+    :geolocation: &id038 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id038
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 870 N California Ave, Palo Alto, CA 94303, USA
+      lat: 37.440739
+      lng: -122.132063
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 870 N California Ave
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4438866
+          lng: -122.1289154
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4375914
+          lng: -122.1352106
+      zip: "94303"
+  :phone_number: ""
+38: 
+  :name: Palo Alto Montessori School
+  :category: private
+  :grade_range: preschool
+  :address: 
+    :street: 575 Arastradero Rd
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94306
+    :geolocation: &id039 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id039
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 575 Arastradero Rd, Palo Alto, CA 94306, USA
+      lat: 37.408234
+      lng: -122.124442
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 575 Arastradero Rd
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4113816
+          lng: -122.1212944
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4050864
+          lng: -122.1275896
+      zip: "94306"
+  :phone_number: ""
+39: 
+  :name: Palo Alto Friends Nursery School
+  :category: private
+  :grade_range: preschool
+  :address: 
+    :street: 957 Colorado Ave
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94303
+    :geolocation: &id040 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id040
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 957 Colorado Ave, Palo Alto, CA 94303, USA
+      lat: 37.4377371
+      lng: -122.1202182
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 957 Colorado Ave
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4408784
+          lng: -122.117065
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4345832
+          lng: -122.1233602
+      zip: "94303"
+  :phone_number: ""
+40: 
+  :name: Living Wisdom School of Palo Alto
+  :category: private
+  :grade_range: k-8
+  :address: 
+    :street: 456 College Avenue
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94306
+    :geolocation: &id042 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id042
+      - &id041 !ruby/object:Geokit::GeoLoc 
+        accuracy: 8
+        all: 
+        - *id041
+        city: Palo Alto
+        country: USA
+        country_code: US
+        full_address: 456 University Ave, Palo Alto, CA 94301, USA
+        lat: 37.4477281
+        lng: -122.1597365
+        precision: address
+        provider: google
+        province: Santa Clara
+        state: CA
+        street_address: 456 University Ave
+        success: true
+        suggested_bounds: !ruby/object:Geokit::Bounds 
+          ne: !ruby/object:Geokit::LatLng 
+            lat: 37.4301176
+            lng: -122.1441224
+          sw: !ruby/object:Geokit::LatLng 
+            lat: 37.4238224
+            lng: -122.1504176
+        zip: "94301"
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 456 College Ave, Palo Alto, CA 94306, USA
+      lat: 37.42697
+      lng: -122.14727
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 456 College Ave
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4301176
+          lng: -122.1441224
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4238224
+          lng: -122.1504176
+      zip: "94306"
+  :phone_number: ""
+41: 
+  :name: Children First-Palo Alto SQ
+  :category: private
+  :grade_range: preschool
+  :address: 
+    :street: 3000 El Cam Ste 3-110
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94306
+    :geolocation: &id043 !ruby/object:Geokit::GeoLoc 
+      accuracy: 9
+      all: 
+      - *id043
+      city: Atherton
+      country: USA
+      country_code: US
+      full_address: "110 Cam Al Lago #3, Atherton, CA 94027, USA"
+      lat: 37.4443553
+      lng: -122.2030643
+      precision: building
+      provider: google
+      province: 
+      state: CA
+      street_address: "110 Cam Al Lago #3"
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4474966
+          lng: -122.199899
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4412014
+          lng: -122.2061942
+      zip: "94027"
+  :phone_number: ""
+42: 
+  :name: Palo Alto Infant-Toddler Center
+  :category: private
+  :grade_range: preschool
+  :address: 
+    :street: 4111 Alma St
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94306
+    :geolocation: &id044 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id044
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 4111 Alma St, Palo Alto, CA 94306, USA
+      lat: 37.4119217
+      lng: -122.1135602
+      precision: address
+      provider: google
+      province: Santa Clara
+      state: CA
+      street_address: 4111 Alma St
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4150693
+          lng: -122.1104126
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4087741
+          lng: -122.1167078
+      zip: "94306"
+  :phone_number: ""
+43: 
+  :name: Aspire East Palo Alto Phoenix Academy
+  :category: charter
+  :grade_range: "11"
+  :address: 
+    :street: 1848c Bay Rd.
+    :city: East Palo Alto
+    :state: CA
+    :zipcode: 94303
+    :geolocation: &id045 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id045
+      city: East Palo Alto
+      country: USA
+      country_code: US
+      full_address: 1848 Bay Rd, East Palo Alto, CA 94303, USA
+      lat: 37.4723695
+      lng: -122.1331091
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 1848 Bay Rd
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4755255
+          lng: -122.1299666
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4692303
+          lng: -122.1362618
+      zip: "94303"
+  :phone_number: ""
+44: 
+  :name: Aspire East Palo Alto Charter School
+  :category: charter
+  :grade_range: pk-8
+  :address: 
+    :street: 1286 Runnymede St.
+    :city: East Palo Alto
+    :state: CA
+    :zipcode: 94303
+    :geolocation: &id046 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id046
+      city: East Palo Alto
+      country: USA
+      country_code: US
+      full_address: 1286 Runnymede St, East Palo Alto, CA 94303, USA
+      lat: 37.468274
+      lng: -122.127755
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 1286 Runnymede St
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4714216
+          lng: -122.1246074
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4651264
+          lng: -122.1309026
+      zip: "94303"
+  :phone_number: ""
+45: 
+  :name: Montessori School of Los Altos
+  :category: private
+  :grade_range: preschool
+  :address: 
+    :street: 303 Parkside Dr.
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94306
+    :geolocation: &id047 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id047
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 303 Parkside Dr, Palo Alto, CA 94306, USA
+      lat: 37.414604
+      lng: -122.112662
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 303 Parkside Dr
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4177516
+          lng: -122.1095144
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4114564
+          lng: -122.1158096
+      zip: "94306"
+  :phone_number: ""
+46: 
+  :name: Palo Verde Elementary School
+  :category: public
+  :grade_range: k-5
+  :address: 
+    :street: 3450 Louis Rd.
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94303
+    :geolocation: &id048 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id048
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 3450 Louis Rd, Palo Alto, CA 94303, USA
+      lat: 37.43071
+      lng: -122.1142
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 3450 Louis Rd
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4338576
+          lng: -122.1110524
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4275624
+          lng: -122.1173476
+      zip: "94303"
+  :phone_number: ""
+47: 
+  :name: Addison Elementary School
+  :category: public
+  :grade_range: k-5
+  :address: 
+    :street: 650 Addison Ave.
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94301
+    :geolocation: &id049 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id049
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 650 Addison Ave, Palo Alto, CA 94301, USA
+      lat: 37.446201
+      lng: -122.15115
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 650 Addison Ave
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4493486
+          lng: -122.1480024
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4430534
+          lng: -122.1542976
+      zip: "94301"
+  :phone_number: ""
+48: 
+  :name: Barron Park Elementary School
+  :category: public
+  :grade_range: k-5
+  :address: 
+    :street: 800 Barron Ave.
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94306
+    :geolocation: &id050 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id050
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 800 Barron Ave, Palo Alto, CA 94306, USA
+      lat: 37.412972
+      lng: -122.137407
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 800 Barron Ave
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4161196
+          lng: -122.1342594
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4098244
+          lng: -122.1405546
+      zip: "94306"
+  :phone_number: ""
+49: 
+  :name: Juana Briones Elementary School
+  :category: public
+  :grade_range: k-5
+  :address: 
+    :street: 4100 Orme St.
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94306
+    :geolocation: &id051 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id051
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 4100 Orme St, Palo Alto, CA 94306, USA
+      lat: 37.4076119
+      lng: -122.1303705
+      precision: address
+      provider: google
+      province: Santa Clara
+      state: CA
+      street_address: 4100 Orme St
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4107595
+          lng: -122.1272229
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4044643
+          lng: -122.1335181
+      zip: "94306"
+  :phone_number: ""
+50: 
+  :name: Duveneck Elementary School
+  :category: public
+  :grade_range: k-5
+  :address: 
+    :street: 705 Alester Ave.
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94303
+    :geolocation: &id052 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id052
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 705 Alester Ave, Palo Alto, CA 94303, USA
+      lat: 37.449505
+      lng: -122.134137
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 705 Alester Ave
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4526526
+          lng: -122.1309894
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4463574
+          lng: -122.1372846
+      zip: "94303"
+  :phone_number: ""
+51: 
+  :name: El Carmelo Elementary School
+  :category: public
+  :grade_range: k-6
+  :address: 
+    :street: 3024 Bryant St.
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94306
+    :geolocation: &id053 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id053
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 3024 Bryant St, Palo Alto, CA 94306, USA
+      lat: 37.4256061
+      lng: -122.1303345
+      precision: address
+      provider: google
+      province: Santa Clara
+      state: CA
+      street_address: 3024 Bryant St
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4287537
+          lng: -122.1271869
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4224585
+          lng: -122.1334821
+      zip: "94306"
+  :phone_number: ""
+52: 
+  :name: Fairmeadow Elementary School
+  :category: public
+  :grade_range: k-5
+  :address: 
+    :street: 500 East Meadow Dr.
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94306
+    :geolocation: &id054 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id054
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 500 E Meadow Dr, Palo Alto, CA 94306, USA
+      lat: 37.422822
+      lng: -122.1173483
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 500 E Meadow Dr
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4259761
+          lng: -122.1142061
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4196808
+          lng: -122.1205013
+      zip: "94306"
+  :phone_number: ""
+53: 
+  :name: Greendell School
+  :category: public
+  :grade_range: k-12
+  :address: 
+    :street: 4120 Middlefield Rd.
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94303
+    :geolocation: &id055 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id055
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 4120 Middlefield Rd, Palo Alto, CA 94306, USA
+      lat: 37.4173491
+      lng: -122.1056344
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 4120 Middlefield Rd
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4205046
+          lng: -122.1024804
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4142093
+          lng: -122.1087757
+      zip: "94306"
+  :phone_number: ""
+54: 
+  :name: Walter Hays Elementary School
+  :category: public
+  :grade_range: k-5
+  :address: 
+    :street: 1525 Middlefield Rd.
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94301
+    :geolocation: &id056 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id056
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 1525 Middlefield Rd, Palo Alto, CA 94301, USA
+      lat: 37.44305
+      lng: -122.143065
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 1525 Middlefield Rd
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4461976
+          lng: -122.1399174
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4399024
+          lng: -122.1462126
+      zip: "94301"
+  :phone_number: ""
+55: 
+  :name: Herbert Hoover Elementary School
+  :category: public
+  :grade_range: k-5
+  :address: 
+    :street: 445 East Charleston Rd.
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94306
+    :geolocation: &id057 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id057
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 445 E Charleston Rd, Palo Alto, CA 94306, USA
+      lat: 37.4180979
+      lng: -122.1139109
+      precision: address
+      provider: google
+      province: Santa Clara
+      state: CA
+      street_address: 445 E Charleston Rd
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4212455
+          lng: -122.1107633
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4149503
+          lng: -122.1170585
+      zip: "94306"
+  :phone_number: ""
+56: 
+  :name: Ohlone Elementary School
+  :category: public
+  :grade_range: k-5
+  :address: 
+    :street: 950 Amarillo Ave.
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94303
+    :geolocation: &id058 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id058
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 950 Amarillo Ave, Palo Alto, CA 94303, USA
+      lat: 37.438929
+      lng: -122.12272
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 950 Amarillo Ave
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4420766
+          lng: -122.1195724
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4357814
+          lng: -122.1258676
+      zip: "94303"
+  :phone_number: ""
+57: 
+  :name: Terman Middle School
+  :category: public
+  :grade_range: 6-8
+  :address: 
+    :street: 655 Arastradero Rd.
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94306
+    :geolocation: &id059 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id059
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 655 Arastradero Rd, Palo Alto, CA 94306, USA
+      lat: 37.402585
+      lng: -122.12604
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 655 Arastradero Rd
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4057326
+          lng: -122.1228924
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.3994374
+          lng: -122.1291876
+      zip: "94306"
+  :phone_number: ""
+58: 
+  :name: Castilleja School
+  :category: private
+  :grade_range: 6-12
+  :address: 
+    :street: 1310 Bryant St
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94301
+    :geolocation: &id060 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id060
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 1310 Bryant St, Palo Alto, CA 94301, USA
+      lat: 37.4394094
+      lng: -122.1513238
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 1310 Bryant St
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.442563
+          lng: -122.1481701
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4362678
+          lng: -122.1544654
+      zip: "94301"
+  :phone_number: ""
+59: 
+  :name: Keys School
+  :category: private
+  :grade_range: k-8
+  :address: 
+    :street: 2890 Middlefield Rd
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94306
+    :geolocation: &id061 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id061
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 2890 Middlefield Rd, Palo Alto, CA 94306, USA
+      lat: 37.431102
+      lng: -122.127208
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 2890 Middlefield Rd
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4342496
+          lng: -122.1240604
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4279544
+          lng: -122.1303556
+      zip: "94306"
+  :phone_number: ""
+60: 
+  :name: Achievekids
+  :category: private
+  :grade_range: 4-12
+  :address: 
+    :street: 3860 Middlefield Rd
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94303
+    :geolocation: &id062 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id062
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 3860 Middlefield Rd, Palo Alto, CA 94306, USA
+      lat: 37.421618
+      lng: -122.112548
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 3860 Middlefield Rd
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4247656
+          lng: -122.1094004
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4184704
+          lng: -122.1156956
+      zip: "94306"
+  :phone_number: ""
+61: 
+  :name: International School of the Pen
+  :category: private
+  :grade_range: pk-8
+  :address: 
+    :street: 151 Laura Ln
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94303
+    :geolocation: &id063 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id063
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 151 Laura Ln, Palo Alto, CA 94303, USA
+      lat: 37.4520466
+      lng: -122.1251437
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 151 Laura Ln
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.455189
+          lng: -122.1219935
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4488937
+          lng: -122.1282888
+      zip: "94303"
+  :phone_number: ""
+62: 
+  :name: Bowman International School
+  :category: private
+  :grade_range: n/a
+  :address: 
+    :street: 4000 Terman Dr
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94306
+    :geolocation: &id064 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id064
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 4000 Terman Dr, Palo Alto, CA 94306, USA
+      lat: 37.403036
+      lng: -122.1278601
+      precision: address
+      provider: google
+      province: Santa Clara
+      state: CA
+      street_address: 4000 Terman Dr
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4061836
+          lng: -122.1247125
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.3998884
+          lng: -122.1310077
+      zip: "94306"
+  :phone_number: ""
+63: 
+  :name: Living Wisdom School
+  :category: private
+  :grade_range: pk-8
+  :address: 
+    :street: 456 College Ave
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94306
+    :geolocation: &id066 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id066
+      - &id065 !ruby/object:Geokit::GeoLoc 
+        accuracy: 8
+        all: 
+        - *id065
+        city: Palo Alto
+        country: USA
+        country_code: US
+        full_address: 456 University Ave, Palo Alto, CA 94301, USA
+        lat: 37.4477281
+        lng: -122.1597365
+        precision: address
+        provider: google
+        province: Santa Clara
+        state: CA
+        street_address: 456 University Ave
+        success: true
+        suggested_bounds: !ruby/object:Geokit::Bounds 
+          ne: !ruby/object:Geokit::LatLng 
+            lat: 37.4301176
+            lng: -122.1441224
+          sw: !ruby/object:Geokit::LatLng 
+            lat: 37.4238224
+            lng: -122.1504176
+        zip: "94301"
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 456 College Ave, Palo Alto, CA 94306, USA
+      lat: 37.42697
+      lng: -122.14727
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 456 College Ave
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4301176
+          lng: -122.1441224
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4238224
+          lng: -122.1504176
+      zip: "94306"
+  :phone_number: ""
+64: 
+  :name: Challenger
+  :category: private
+  :grade_range: k-8
+  :address: 
+    :street: 3880 Middlefield Road
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94303
+    :geolocation: &id067 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id067
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 3880 Middlefield Rd, Palo Alto, CA 94306, USA
+      lat: 37.4206165
+      lng: -122.1108757
+      precision: address
+      provider: google
+      province: Santa Clara
+      state: CA
+      street_address: 3880 Middlefield Rd
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4237641
+          lng: -122.1077281
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4174689
+          lng: -122.1140233
+      zip: "94306"
+  :phone_number: ""
+65: 
+  :name: Emerson School
+  :category: private
+  :grade_range: pk-8
+  :address: 
+    :street: 2800 West Bayshore Road
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94306
+    :geolocation: &id068 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id068
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 2800 W Bayshore Rd, Palo Alto, CA 94303, USA
+      lat: 37.442798
+      lng: -122.1175
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 2800 W Bayshore Rd
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4459456
+          lng: -122.1143524
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4396504
+          lng: -122.1206476
+      zip: "94303"
+  :phone_number: ""
+66: 
+  :name: Hope Technology School
+  :category: private
+  :grade_range: pk-8
+  :address: 
+    :street: 2525 E Bayshore Rd
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94303
+    :geolocation: &id069 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id069
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 2525 E Bayshore Rd, Palo Alto, CA 94303, USA
+      lat: 37.4472812
+      lng: -122.1186613
+      precision: address
+      provider: google
+      province: Santa Clara
+      state: CA
+      street_address: 2525 E Bayshore Rd
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4504288
+          lng: -122.1155137
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4441336
+          lng: -122.1218089
+      zip: "94303"
+  :phone_number: ""
+67: 
+  :name: Hope Technology
+  :category: private
+  :grade_range: k-8
+  :address: 
+    :street: 2525 East Bayshore Road
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94303
+    :geolocation: &id070 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id070
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 2525 E Bayshore Rd, Palo Alto, CA 94303, USA
+      lat: 37.4472812
+      lng: -122.1186613
+      precision: address
+      provider: google
+      province: Santa Clara
+      state: CA
+      street_address: 2525 E Bayshore Rd
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4504288
+          lng: -122.1155137
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4441336
+          lng: -122.1218089
+      zip: "94303"
+  :phone_number: ""
+68: 
+  :name: Wellspring International School
+  :category: private
+  :grade_range: pk-5
+  :address: 
+    :street: 505 E. Charleston Road
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94306
+    :geolocation: &id071 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id071
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 505 E Charleston Rd, Palo Alto, CA 94306, USA
+      lat: 37.419574
+      lng: -122.112498
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 505 E Charleston Rd
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4227216
+          lng: -122.1093504
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4164264
+          lng: -122.1156456
+      zip: "94306"
+  :phone_number: ""
+69: 
+  :name: Torah Academy
+  :category: private
+  :grade_range: preschool
+  :address: 
+    :street: 3070 Louis Rd
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94303
+    :geolocation: &id072 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id072
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 3070 Louis Rd, Palo Alto, CA 94303, USA
+      lat: 37.435211
+      lng: -122.120257
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 3070 Louis Rd
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4383586
+          lng: -122.1171094
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4320634
+          lng: -122.1234046
+      zip: "94303"
+  :phone_number: ""
+70: 
+  :name: Mini Infant Center
+  :category: private
+  :grade_range: preschool
+  :address: 
+    :street: 3149 Waverly St
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94306
+    :geolocation: &id073 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id073
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 3149 Waverley St, Palo Alto, CA 94306, USA
+      lat: 37.4262757
+      lng: -122.1271545
+      precision: address
+      provider: google
+      province: Santa Clara
+      state: CA
+      street_address: 3149 Waverley St
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4294233
+          lng: -122.1240069
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4231281
+          lng: -122.1303021
+      zip: "94306"
+  :phone_number: ""
+71: 
+  :name: Learning Center
+  :category: private
+  :grade_range: preschool
+  :address: 
+    :street: 459 Kingsley Ave
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94301
+    :geolocation: &id074 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id074
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 459 Kingsley Ave, Palo Alto, CA 94301, USA
+      lat: 37.4423189
+      lng: -122.1510193
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 459 Kingsley Ave
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4454617
+          lng: -122.147864
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4391665
+          lng: -122.1541593
+      zip: "94301"
+  :phone_number: ""
+72: 
+  :name: Downtown Children's Center
+  :category: private
+  :grade_range: preschool
+  :address: 
+    :street: 555 Waverley St
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94301
+    :geolocation: &id075 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id075
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 555 Waverley St, Palo Alto, CA 94301, USA
+      lat: 37.446827
+      lng: -122.159222
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 555 Waverley St
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4499746
+          lng: -122.1560744
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4436794
+          lng: -122.1623696
+      zip: "94301"
+  :phone_number: ""
+73: 
+  :name: Ohlone Kids Club
+  :category: private
+  :grade_range: preschool
+  :address: 
+    :street: 950 Amarillo Ave
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94303
+    :geolocation: &id076 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id076
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 950 Amarillo Ave, Palo Alto, CA 94303, USA
+      lat: 37.438929
+      lng: -122.12272
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 950 Amarillo Ave
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4420766
+          lng: -122.1195724
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4357814
+          lng: -122.1258676
+      zip: "94303"
+  :phone_number: ""
+74: 
+  :name: Helios New School
+  :category: private
+  :grade_range: pk-5
+  :address: 
+    :street: 3921 Fabian Way, Building C
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94303
+    :geolocation: &id077 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id077
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 3921 Fabian Way, Palo Alto, CA 94303, USA
+      lat: 37.4242932
+      lng: -122.104189
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 3921 Fabian Way
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4274407
+          lng: -122.1010531
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4211455
+          lng: -122.1073484
+      zip: "94303"
+  :phone_number: ""
+75: 
+  :name: Bear Hollow School
+  :category: private
+  :grade_range: k-12
+  :address: 
+    :street: 3790 El Camino Real
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94306
+    :geolocation: &id079 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id079
+      - &id078 !ruby/object:Geokit::GeoLoc 
+        accuracy: 8
+        all: 
+        - *id078
+        city: Palo Alto
+        country: USA
+        country_code: US
+        full_address: 3790 El Camino Real, Palo Alto, CA 95020, USA
+        lat: 37.047058
+        lng: -121.542786
+        precision: address
+        provider: google
+        province: Santa Clara
+        state: CA
+        street_address: 3790 El Camino Real
+        success: true
+        suggested_bounds: !ruby/object:Geokit::Bounds 
+          ne: !ruby/object:Geokit::LatLng 
+            lat: 37.4207036
+            lng: -122.1285368
+          sw: !ruby/object:Geokit::LatLng 
+            lat: 37.4144083
+            lng: -122.1348321
+        zip: "95020"
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 3790 El Camino Real, Palo Alto, CA 94306, USA
+      lat: 37.4175482
+      lng: -122.1316909
+      precision: address
+      provider: google
+      province: Santa Clara
+      state: CA
+      street_address: 3790 El Camino Real
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4207036
+          lng: -122.1285368
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4144083
+          lng: -122.1348321
+      zip: "94306"
+  :phone_number: ""
+76: 
+  :name: Henry M. Gunn High School
+  :category: public
+  :grade_range: 9-12
+  :address: 
+    :street: 780 Arastradero Rd.
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94306
+    :geolocation: &id081 !ruby/object:Geokit::GeoLoc 
+      accuracy: 9
+      all: 
+      - *id081
+      - &id080 !ruby/object:Geokit::GeoLoc 
+        accuracy: 8
+        all: 
+        - *id080
+        city: Palo Alto
+        country: USA
+        country_code: US
+        full_address: 780 Arastradero Rd, Palo Alto, CA 94304, USA
+        lat: 37.400067
+        lng: -122.131963
+        precision: address
+        provider: google
+        province: 
+        state: CA
+        street_address: 780 Arastradero Rd
+        success: true
+        suggested_bounds: !ruby/object:Geokit::Bounds 
+          ne: !ruby/object:Geokit::LatLng 
+            lat: 37.4044165
+            lng: -122.1302723
+          sw: !ruby/object:Geokit::LatLng 
+            lat: 37.3981212
+            lng: -122.1365675
+        zip: "94304"
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: Henry M Gunn High School, 780 Arastradero Rd, Palo Alto, CA, USA
+      lat: 37.4012688
+      lng: -122.1334199
+      precision: building
+      provider: google
+      province: Santa Clara
+      state: CA
+      street_address: Henry M Gunn High School, 780 Arastradero Rd
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4044165
+          lng: -122.1302723
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.3981212
+          lng: -122.1365675
+      zip: 
+  :phone_number: ""
+77: 
+  :name: David Starr Jordan Middle School
+  :category: public
+  :grade_range: 6-9
+  :address: 
+    :street: 750 North California Ave.
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94303
+    :geolocation: &id082 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id082
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 750 N California Ave, Palo Alto, CA 94303, USA
+      lat: 37.43871
+      lng: -122.134072
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 750 N California Ave
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4418576
+          lng: -122.1309244
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4355624
+          lng: -122.1372196
+      zip: "94303"
+  :phone_number: ""
+78: 
+  :name: Jane Lathrop Stanford Middle School
+  :category: public
+  :grade_range: 6-8
+  :address: 
+    :street: 480 East Meadow Dr.
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94306
+    :geolocation: &id083 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id083
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 480 E Meadow Dr, Palo Alto, CA 94306, USA
+      lat: 37.4219136
+      lng: -122.1185088
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 480 E Meadow Dr
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4250612
+          lng: -122.1153612
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.418766
+          lng: -122.1216564
+      zip: "94306"
+  :phone_number: ""
+79: 
+  :name: St. Elizabeth Seton School
+  :category: private
+  :grade_range: k-8
+  :address: 
+    :street: 1095 Channing Ave
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94301
+    :geolocation: &id084 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id084
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 1095 Channing Ave, Palo Alto, CA 94301, USA
+      lat: 37.4488016
+      lng: -122.1450224
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 1095 Channing Ave
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4519415
+          lng: -122.1418748
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4456463
+          lng: -122.14817
+      zip: "94301"
+  :phone_number: ""
+80: 
+  :name: Gideon Hausner Jewish Day School
+  :category: private
+  :grade_range: k-8
+  :address: 
+    :street: 450 San Antonio Road
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94306
+    :geolocation: &id085 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id085
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 450 San Antonio Rd, Palo Alto, CA 94306, USA
+      lat: 37.412847
+      lng: -122.105011
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 450 San Antonio Rd
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4159946
+          lng: -122.1018634
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4096994
+          lng: -122.1081586
+      zip: "94306"
+  :phone_number: ""
+81: 
+  :name: Esther B. Clark School at Children's Health Council
+  :category: private
+  :grade_range: 3-10
+  :address: 
+    :street: 650 Clark Way
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94304
+    :geolocation: &id086 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id086
+      city: Menlo Park
+      country: USA
+      country_code: US
+      full_address: 650 Clark Way, Menlo Park, CA 94025, USA
+      lat: 37.4400075
+      lng: -122.1785034
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 650 Clark Way
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4431551
+          lng: -122.1753558
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4368599
+          lng: -122.181651
+      zip: "94025"
+  :phone_number: ""
+82: 
+  :name: Kehillah Jewish High School
+  :category: private
+  :grade_range: 9-12
+  :address: 
+    :street: 3900 Fabian Way
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94303
+    :geolocation: &id087 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id087
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 3900 Fabian Way, Palo Alto, CA 94303, USA
+      lat: 37.4249029
+      lng: -122.1043848
+      precision: address
+      provider: google
+      province: Santa Clara
+      state: CA
+      street_address: 3900 Fabian Way
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4280505
+          lng: -122.1012372
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4217553
+          lng: -122.1075324
+      zip: "94303"
+  :phone_number: ""
+83: 
+  :name: Oicw Child Development Center
+  :category: private
+  :grade_range: preschool
+  :address: 
+    :street: 1070 Beech St
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94303
+    :geolocation: &id088 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id088
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 1070 Beech St, Palo Alto, CA 94303, USA
+      lat: 37.464869
+      lng: -122.130471
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 1070 Beech St
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4680166
+          lng: -122.1273234
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4617214
+          lng: -122.1336186
+      zip: "94303"
+  :phone_number: ""
+84: 
+  :name: Magnolia Child Development Center
+  :category: private
+  :grade_range: preschool
+  :address: 
+    :street: 1425 Bay Rd
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94303
+    :geolocation: &id089 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id089
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 1425 Bay Rd, Palo Alto, CA 94303, USA
+      lat: 37.471458
+      lng: -122.143181
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 1425 Bay Rd
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4746056
+          lng: -122.1400334
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4683104
+          lng: -122.1463286
+      zip: "94303"
+  :phone_number: ""
+85: 
+  :name: Ravenswood Child Development Program
+  :category: private
+  :grade_range: preschool
+  :address: 
+    :street: 2450 Ralmar St
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94303
+    :geolocation: &id090 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id090
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 2450 Ralmar Ave, Palo Alto, CA 94303, USA
+      lat: 37.473618
+      lng: -122.145001
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 2450 Ralmar Ave
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4767656
+          lng: -122.1418534
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4704704
+          lng: -122.1481486
+      zip: "94303"
+  :phone_number: ""
+86: 
+  :name: Ravenwood Child Development Center
+  :category: private
+  :grade_range: preschool
+  :address: 
+    :street: 2450 Ralmar St
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94303
+    :geolocation: &id091 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id091
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 2450 Ralmar Ave, Palo Alto, CA 94303, USA
+      lat: 37.473618
+      lng: -122.145001
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 2450 Ralmar Ave
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4767656
+          lng: -122.1418534
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4704704
+          lng: -122.1481486
+      zip: "94303"
+  :phone_number: ""
+87: 
+  :name: Neighborhood Infant-Toddler Ct
+  :category: private
+  :grade_range: preschool
+  :address: 
+    :street: 311 N California Ave
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94301
+    :geolocation: &id092 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id092
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 311 N California Ave, Palo Alto, CA 94301, USA
+      lat: 37.433134
+      lng: -122.140094
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 311 N California Ave
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4362816
+          lng: -122.1369464
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4299864
+          lng: -122.1432416
+      zip: "94301"
+  :phone_number: ""
+88: 
+  :name: Lilliput Infant-Toddler Center
+  :category: private
+  :grade_range: preschool
+  :address: 
+    :street: 3789 Park Blvd
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94306
+    :geolocation: &id093 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id093
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 3789 Park Blvd, Palo Alto, CA 94306, USA
+      lat: 37.420982
+      lng: -122.129365
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 3789 Park Blvd
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4241296
+          lng: -122.1262174
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4178344
+          lng: -122.1325126
+      zip: "94306"
+  :phone_number: ""
+89: 
+  :name: Whistle Stop Child Development Center
+  :category: private
+  :grade_range: preschool
+  :address: 
+    :street: 3801 Miranda Avenue T6b
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94304
+    :geolocation: &id094 !ruby/object:Geokit::GeoLoc 
+      accuracy: 4
+      all: 
+      - *id094
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: Palo Alto, CA, USA
+      lat: 37.4418834
+      lng: -122.1430195
+      precision: city
+      provider: google
+      province: Santa Clara
+      state: CA
+      street_address: 
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.5127227
+          lng: -122.0149601
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.3709769
+          lng: -122.2710789
+      zip: 
+  :phone_number: ""
+90: 
+  :name: Sojourner Truth Child Development Center
+  :category: private
+  :grade_range: preschool
+  :address: 
+    :street: 3990 Ventura Ct
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94306
+    :geolocation: &id095 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id095
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 3990 Ventura Ct, Palo Alto, CA 94306, USA
+      lat: 37.417926
+      lng: -122.1280551
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 3990 Ventura Ct
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4210689
+          lng: -122.1249113
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4147737
+          lng: -122.1312065
+      zip: "94306"
+  :phone_number: ""
+91: 
+  :name: Country Day Little School
+  :category: private
+  :grade_range: preschool
+  :address: 
+    :street: 3990 Ventura Ct
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94306
+    :geolocation: &id096 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id096
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 3990 Ventura Ct, Palo Alto, CA 94306, USA
+      lat: 37.417926
+      lng: -122.1280551
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 3990 Ventura Ct
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4210689
+          lng: -122.1249113
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4147737
+          lng: -122.1312065
+      zip: "94306"
+  :phone_number: ""
+92: 
+  :name: Ellen Thacher Children's Center
+  :category: private
+  :grade_range: preschool
+  :address: 
+    :street: 505 E Charleston Rd
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94306
+    :geolocation: &id097 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id097
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 505 E Charleston Rd, Palo Alto, CA 94306, USA
+      lat: 37.419574
+      lng: -122.112498
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 505 E Charleston Rd
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4227216
+          lng: -122.1093504
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4164264
+          lng: -122.1156456
+      zip: "94306"
+  :phone_number: ""
+93: 
+  :name: Covenant Presbyterian CHLDRN's Center
+  :category: private
+  :grade_range: preschool
+  :address: 
+    :street: 670 E Meadow Dr
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94306
+    :geolocation: &id098 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id098
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 670 E Meadow Dr, Palo Alto, CA 94306, USA
+      lat: 37.423201
+      lng: -122.115185
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 670 E Meadow Dr
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4263486
+          lng: -122.1120374
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4200534
+          lng: -122.1183326
+      zip: "94306"
+  :phone_number: ""
+94: 
+  :name: Champion Youth Enrichment School
+  :category: private
+  :grade_range: preschool
+  :address: 
+    :street: 870 N. California Ave
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94303
+    :geolocation: &id099 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id099
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 870 N California Ave, Palo Alto, CA 94303, USA
+      lat: 37.440739
+      lng: -122.132063
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 870 N California Ave
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4438866
+          lng: -122.1289154
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4375914
+          lng: -122.1352106
+      zip: "94303"
+  :phone_number: ""
+95: 
+  :name: Crescent Park Community CC
+  :category: private
+  :grade_range: preschool
+  :address: 
+    :street: 888 Boyce Avneue
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94301
+    :geolocation: &id100 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id100
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 888 Boyce Ave, Palo Alto, CA 94301, USA
+      lat: 37.451183
+      lng: -122.150453
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 888 Boyce Ave
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4543306
+          lng: -122.1473054
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4480354
+          lng: -122.1536006
+      zip: "94301"
+  :phone_number: ""
+96: 
+  :name: Creative Montessori Learning Center
+  :category: private
+  :grade_range: preschool
+  :address: 
+    :street: 1421 Bay Rd
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94303
+    :geolocation: &id101 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id101
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 1421 Bay Rd, Palo Alto, CA 94303, USA
+      lat: 37.4711294
+      lng: -122.1441672
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 1421 Bay Rd
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4742678
+          lng: -122.1410177
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4679726
+          lng: -122.1473129
+      zip: "94303"
+  :phone_number: ""
+97: 
+  :name: Milestones Preschool
+  :category: private
+  :grade_range: preschool
+  :address: 
+    :street: 3864 Middlefield Rd
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 4306
+    :geolocation: &id102 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id102
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 3864 Middlefield Rd, Palo Alto, CA 94306, USA
+      lat: 37.4210133
+      lng: -122.1109952
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 3864 Middlefield Rd
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4241661
+          lng: -122.1078378
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4178708
+          lng: -122.114133
+      zip: "94306"
+  :phone_number: ""
+98: 
+  :name: Discovery Children's House Montessori
+  :category: private
+  :grade_range: preschool
+  :address: 
+    :street: 437 Webster St
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94301
+    :geolocation: &id103 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id103
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 437 Webster St, Palo Alto, CA 94301, USA
+      lat: 37.4500242
+      lng: -122.1587764
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 437 Webster St
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4531658
+          lng: -122.1556348
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4468705
+          lng: -122.1619301
+      zip: "94301"
+  :phone_number: ""
+99: 
+  :name: First Congregational Nursery School
+  :category: private
+  :grade_range: preschool
+  :address: 
+    :street: 1985 Louis Rd
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94303
+    :geolocation: &id104 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id104
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 1985 Louis Rd, Palo Alto, CA 94303, USA
+      lat: 37.444328
+      lng: -122.133159
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 1985 Louis Rd
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4474756
+          lng: -122.1300114
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4411804
+          lng: -122.1363066
+      zip: "94303"
+  :phone_number: ""
+100: 
+  :name: Parents Nursery School
+  :category: private
+  :grade_range: preschool
+  :address: 
+    :street: 2328 Louis Rd
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94303
+    :geolocation: &id105 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id105
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 2328 Louis Rd, Palo Alto, CA 94303, USA
+      lat: 37.44101
+      lng: -122.129782
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 2328 Louis Rd
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4441576
+          lng: -122.1266344
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4378624
+          lng: -122.1329296
+      zip: "94303"
+  :phone_number: ""
+101: 
+  :name: Barron Park Pre-School
+  :category: private
+  :grade_range: preschool
+  :address: 
+    :street: 3650 La Donna Ave
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94306
+    :geolocation: &id106 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id106
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 3650 La Donna Ave, Palo Alto, CA 94306, USA
+      lat: 37.415449
+      lng: -122.135441
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 3650 La Donna Ave
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4185966
+          lng: -122.1322934
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4123014
+          lng: -122.1385886
+      zip: "94306"
+  :phone_number: ""
+102: 
+  :name: Children's Pre-School Center
+  :category: private
+  :grade_range: preschool
+  :address: 
+    :street: 4000 Middlefield Rd
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94303
+    :geolocation: &id107 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id107
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 4000 Middlefield Rd, Palo Alto, CA 94306, USA
+      lat: 37.4175832
+      lng: -122.1066513
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 4000 Middlefield Rd
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4207308
+          lng: -122.1035037
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4144356
+          lng: -122.1097989
+      zip: "94306"
+  :phone_number: ""
+103: 
+  :name: Good Neighbor Montessori
+  :category: private
+  :grade_range: preschool
+  :address: 
+    :street: 4000 Middlefield Rd
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94303
+    :geolocation: &id108 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id108
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 4000 Middlefield Rd, Palo Alto, CA 94306, USA
+      lat: 37.4175832
+      lng: -122.1066513
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 4000 Middlefield Rd
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4207308
+          lng: -122.1035037
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4144356
+          lng: -122.1097989
+      zip: "94306"
+  :phone_number: ""
+104: 
+  :name: Growing Tree Pre-School
+  :category: private
+  :grade_range: preschool
+  :address: 
+    :street: 450 W Charleston Rd
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94306
+    :geolocation: &id109 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id109
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 450 W Charleston Rd, Palo Alto, CA 94306, USA
+      lat: 37.412329
+      lng: -122.121592
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 450 W Charleston Rd
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4154766
+          lng: -122.1184444
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4091814
+          lng: -122.1247396
+      zip: "94306"
+  :phone_number: ""
+105: 
+  :name: Peninsula Day Care Center
+  :category: private
+  :grade_range: preschool
+  :address: 
+    :street: 525 San Antonio Ave
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94306
+    :geolocation: &id110 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id110
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 525 San Antonio Ave, Palo Alto, CA 94306, USA
+      lat: 37.4139453
+      lng: -122.104633
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 525 San Antonio Ave
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4170896
+          lng: -122.1014766
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4107943
+          lng: -122.1077719
+      zip: "94306"
+  :phone_number: ""
+106: 
+  :name: Midtown Nursery School
+  :category: private
+  :grade_range: preschool
+  :address: 
+    :street: 855 Bruce Dr
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94303
+    :geolocation: &id111 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id111
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 855 Bruce Dr, Palo Alto, CA 94303, USA
+      lat: 37.437169
+      lng: -122.125219
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 855 Bruce Dr
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4403166
+          lng: -122.1220714
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4340214
+          lng: -122.1283666
+      zip: "94303"
+  :phone_number: ""
+107: 
+  :name: College Terrace Pre-School Center
+  :category: private
+  :grade_range: preschool
+  :address: 
+    :street: 2300 Wellesley St
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94306
+    :geolocation: &id112 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id112
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 2300 Wellesley St, Palo Alto, CA 94306, USA
+      lat: 37.4228839
+      lng: -122.1488858
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 2300 Wellesley St
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.426038
+          lng: -122.1457328
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4197427
+          lng: -122.152028
+      zip: "94306"
+  :phone_number: ""
+108: 
+  :name: Love-N-Care Christian Preschool & DC
+  :category: private
+  :grade_range: preschool
+  :address: 
+    :street: 2490 Middlefield Rd
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94301
+    :geolocation: &id113 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id113
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 2490 Middlefield Rd, Palo Alto, CA 94301, USA
+      lat: 37.434964
+      lng: -122.132703
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 2490 Middlefield Rd
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4381116
+          lng: -122.1295554
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4318164
+          lng: -122.1358506
+      zip: "94301"
+  :phone_number: ""
+109: 
+  :name: Love N Care Christian Pre-School
+  :category: private
+  :grade_range: preschool
+  :address: 
+    :street: 2490 Middlefield Rd
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94301
+    :geolocation: &id114 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id114
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 2490 Middlefield Rd, Palo Alto, CA 94301, USA
+      lat: 37.434964
+      lng: -122.132703
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 2490 Middlefield Rd
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4381116
+          lng: -122.1295554
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4318164
+          lng: -122.1358506
+      zip: "94301"
+  :phone_number: ""
+110: 
+  :name: Grace Lutheran Church Pre-School
+  :category: private
+  :grade_range: preschool
+  :address: 
+    :street: 3149 Waverley St
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94306
+    :geolocation: &id115 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id115
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 3149 Waverley St, Palo Alto, CA 94306, USA
+      lat: 37.4262757
+      lng: -122.1271545
+      precision: address
+      provider: google
+      province: Santa Clara
+      state: CA
+      street_address: 3149 Waverley St
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4294233
+          lng: -122.1240069
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4231281
+          lng: -122.1303021
+      zip: "94306"
+  :phone_number: ""
+111: 
+  :name: Ta'Enna Nursery School
+  :category: private
+  :grade_range: preschool
+  :address: 
+    :street: 4000 Middlefield Rd
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94303
+    :geolocation: &id116 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id116
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 4000 Middlefield Rd, Palo Alto, CA 94306, USA
+      lat: 37.4175832
+      lng: -122.1066513
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 4000 Middlefield Rd
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4207308
+          lng: -122.1035037
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4144356
+          lng: -122.1097989
+      zip: "94306"
+  :phone_number: ""
+112: 
+  :name: Casa Dei Bambini Pre-School
+  :category: private
+  :grade_range: preschool
+  :address: 
+    :street: 463 College
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94301
+    :geolocation: &id118 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id118
+      - &id117 !ruby/object:Geokit::GeoLoc 
+        accuracy: 8
+        all: 
+        - *id117
+        city: Palo Alto
+        country: USA
+        country_code: US
+        full_address: 463 University Ave, Palo Alto, CA 94301, USA
+        lat: 37.4480088
+        lng: -122.1597467
+        precision: address
+        provider: google
+        province: Santa Clara
+        state: CA
+        street_address: 463 University Ave
+        success: true
+        suggested_bounds: !ruby/object:Geokit::Bounds 
+          ne: !ruby/object:Geokit::LatLng 
+            lat: 37.4296796
+            lng: -122.1436494
+          sw: !ruby/object:Geokit::LatLng 
+            lat: 37.4233844
+            lng: -122.1499446
+        zip: "94301"
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 463 College Ave, Palo Alto, CA 94306, USA
+      lat: 37.426532
+      lng: -122.146797
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 463 College Ave
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4296796
+          lng: -122.1436494
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4233844
+          lng: -122.1499446
+      zip: "94306"
+  :phone_number: ""
+113: 
+  :name: Young Life Christian Pre-School
+  :category: private
+  :grade_range: preschool
+  :address: 
+    :street: 687 Arastradero Rd
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94306
+    :geolocation: &id119 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id119
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: 687 Arastradero Rd, Palo Alto, CA 94306, USA
+      lat: 37.401756
+      lng: -122.128977
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 687 Arastradero Rd
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4049036
+          lng: -122.1258294
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.3986084
+          lng: -122.1321246
+      zip: "94306"
+  :phone_number: ""
+114: 
+  :name: Way We Grow Infant Child Care Center
+  :category: private
+  :grade_range: preschool
+  :address: 
+    :street: P.O. Box 52003
+    :city: Palo Alto
+    :state: CA
+    :zipcode: 94303
+    :geolocation: &id120 !ruby/object:Geokit::GeoLoc 
+      accuracy: 4
+      all: 
+      - *id120
+      city: Palo Alto
+      country: USA
+      country_code: US
+      full_address: Palo Alto, CA, USA
+      lat: 37.4418834
+      lng: -122.1430195
+      precision: city
+      provider: google
+      province: Santa Clara
+      state: CA
+      street_address: 
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.5127227
+          lng: -122.0149601
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.3709769
+          lng: -122.2710789
+      zip: 
+  :phone_number: ""
+115: 
+  :name: Costano Elementary School
+  :category: public
+  :grade_range: pk-8
+  :address: 
+    :street: 2695 Fordham St.
+    :city: East Palo Alto
+    :state: CA
+    :zipcode: 94303
+    :geolocation: &id121 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id121
+      city: East Palo Alto
+      country: USA
+      country_code: US
+      full_address: 2695 Fordham St, East Palo Alto, CA 94303, USA
+      lat: 37.47814
+      lng: -122.138748
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 2695 Fordham St
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4812876
+          lng: -122.1356004
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4749924
+          lng: -122.1418956
+      zip: "94303"
+  :phone_number: ""
+116: 
+  :name: Eastside College Preparatory School
+  :category: private
+  :grade_range: 6-12
+  :address: 
+    :street: 1041 Myrtle St
+    :city: East Palo Alto
+    :state: CA
+    :zipcode: 94303
+    :geolocation: &id122 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id122
+      city: East Palo Alto
+      country: USA
+      country_code: US
+      full_address: 1041 Myrtle St, East Palo Alto, CA 94303, USA
+      lat: 37.4635317
+      lng: -122.13215
+      precision: address
+      provider: google
+      province: San Mateo
+      state: CA
+      street_address: 1041 Myrtle St
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4666793
+          lng: -122.1290024
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4603841
+          lng: -122.1352976
+      zip: "94303"
+  :phone_number: ""
+117: 
+  :name: Lavengamalie Christian Academy & University
+  :category: private
+  :grade_range: k-7
+  :address: 
+    :street: 735 Green Street
+    :city: East Palo Alto
+    :state: CA
+    :zipcode: 94303
+    :geolocation: &id123 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id123
+      city: East Palo Alto
+      country: USA
+      country_code: US
+      full_address: 735 Green St, East Palo Alto, CA 94303, USA
+      lat: 37.464659
+      lng: -122.138499
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 735 Green St
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4678066
+          lng: -122.1353514
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4615114
+          lng: -122.1416466
+      zip: "94303"
+  :phone_number: ""
+118: 
+  :name: Oicw Child Development Center
+  :category: private
+  :grade_range: preschool
+  :address: 
+    :street: 1070 Beech St
+    :city: East Palo Alto
+    :state: CA
+    :zipcode: 94303
+    :geolocation: &id124 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id124
+      city: East Palo Alto
+      country: USA
+      country_code: US
+      full_address: 1070 Beech St, East Palo Alto, CA 94303, USA
+      lat: 37.464869
+      lng: -122.130471
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 1070 Beech St
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4680166
+          lng: -122.1273234
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4617214
+          lng: -122.1336186
+      zip: "94303"
+  :phone_number: ""
+119: 
+  :name: Ronald McNair Academy School
+  :category: public
+  :grade_range: 4-8
+  :address: 
+    :street: 2033 Pulgas Ave.
+    :city: East Palo Alto
+    :state: CA
+    :zipcode: 94303
+    :geolocation: &id125 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id125
+      city: East Palo Alto
+      country: USA
+      country_code: US
+      full_address: 2033 Pulgas Ave, East Palo Alto, CA 94303, USA
+      lat: 37.4620965
+      lng: -122.1301167
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 2033 Pulgas Ave
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4652443
+          lng: -122.1269574
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.458949
+          lng: -122.1332526
+      zip: "94303"
+  :phone_number: ""
+120: 
+  :name: Cesar Chavez Elementary School
+  :category: public
+  :grade_range: 5-8
+  :address: 
+    :street: 2450 Ralmar St.
+    :city: East Palo Alto
+    :state: CA
+    :zipcode: 94303
+    :geolocation: &id126 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id126
+      city: East Palo Alto
+      country: USA
+      country_code: US
+      full_address: 2450 Ralmar Ave, East Palo Alto, CA 94303, USA
+      lat: 37.473618
+      lng: -122.145001
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 2450 Ralmar Ave
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4767656
+          lng: -122.1418534
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4704704
+          lng: -122.1481486
+      zip: "94303"
+  :phone_number: ""
+121: 
+  :name: James Flood Elementary School
+  :category: public
+  :grade_range: k-5
+  :address: 
+    :street: 2037 Pulgas Avenue
+    :city: East Palo Alto
+    :state: CA
+    :zipcode: 94303
+    :geolocation: &id127 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id127
+      city: East Palo Alto
+      country: USA
+      country_code: US
+      full_address: 2037 Pulgas Ave, East Palo Alto, CA 94303, USA
+      lat: 37.462238
+      lng: -122.13012
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 2037 Pulgas Ave
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4653858
+          lng: -122.1269606
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4590905
+          lng: -122.1332559
+      zip: "94303"
+  :phone_number: ""
+122: 
+  :name: Green Oaks Academy School
+  :category: public
+  :grade_range: k-5
+  :address: 
+    :street: 2450 Ralmar St.
+    :city: East Palo Alto
+    :state: CA
+    :zipcode: 94303
+    :geolocation: &id128 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id128
+      city: East Palo Alto
+      country: USA
+      country_code: US
+      full_address: 2450 Ralmar Ave, East Palo Alto, CA 94303, USA
+      lat: 37.473618
+      lng: -122.145001
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 2450 Ralmar Ave
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4767656
+          lng: -122.1418534
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4704704
+          lng: -122.1481486
+      zip: "94303"
+  :phone_number: ""
+123: 
+  :name: Edison-Brentwood Elementary School
+  :category: public
+  :grade_range: k-5
+  :address: 
+    :street: 2086 Clarke St.
+    :city: East Palo Alto
+    :state: CA
+    :zipcode: 94303
+    :geolocation: &id129 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id129
+      city: East Palo Alto
+      country: USA
+      country_code: US
+      full_address: 2086 Clarke Ave, East Palo Alto, CA 94303, USA
+      lat: 37.4606995
+      lng: -122.1345945
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 2086 Clarke Ave
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4638465
+          lng: -122.1314566
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4575513
+          lng: -122.1377518
+      zip: "94303"
+  :phone_number: ""
+124: 
+  :name: South Community School
+  :category: public
+  :grade_range: 8-12
+  :address: 
+    :street: 2031 Pulgas Ave.
+    :city: East Palo Alto
+    :state: CA
+    :zipcode: 94303
+    :geolocation: &id130 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id130
+      city: East Palo Alto
+      country: USA
+      country_code: US
+      full_address: 2031 Pulgas Ave, East Palo Alto, CA 94303, USA
+      lat: 37.4620257
+      lng: -122.1301151
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 2031 Pulgas Ave
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4651735
+          lng: -122.1269558
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4588783
+          lng: -122.133251
+      zip: "94303"
+  :phone_number: ""
+125: 
+  :name: Escondido Elementary School
+  :category: public
+  :grade_range: k-5
+  :address: 
+    :street: 890 Escondido Rd.
+    :city: Stanford
+    :state: CA
+    :zipcode: 94305
+    :geolocation: &id131 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id131
+      city: Stanford
+      country: USA
+      country_code: US
+      full_address: 890 Escondido Rd, Stanford, CA 94305, USA
+      lat: 37.421223
+      lng: -122.156027
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 890 Escondido Rd
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4243706
+          lng: -122.1528794
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4180754
+          lng: -122.1591746
+      zip: "94305"
+  :phone_number: ""
+126: 
+  :name: Lucille M. Nixon Elementary School
+  :category: public
+  :grade_range: k-5
+  :address: 
+    :street: 1711 Stanford Ave.
+    :city: Stanford
+    :state: CA
+    :zipcode: 94305
+    :geolocation: &id132 !ruby/object:Geokit::GeoLoc 
+      accuracy: 8
+      all: 
+      - *id132
+      city: Stanford
+      country: USA
+      country_code: US
+      full_address: 1711 Stanford Ave, Stanford, CA 94305, USA
+      lat: 37.414364
+      lng: -122.156294
+      precision: address
+      provider: google
+      province: 
+      state: CA
+      street_address: 1711 Stanford Ave
+      success: true
+      suggested_bounds: !ruby/object:Geokit::Bounds 
+        ne: !ruby/object:Geokit::LatLng 
+          lat: 37.4175116
+          lng: -122.1531464
+        sw: !ruby/object:Geokit::LatLng 
+          lat: 37.4112164
+          lng: -122.1594416
+      zip: "94305"
+  :phone_number: ""
